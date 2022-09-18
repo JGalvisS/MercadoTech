@@ -4,7 +4,7 @@ vALENTINA GARCIA :yum:
 FERNANDA ARDILA :chipmunk:
 KELLY ESPANA :smile:
 
-**_ _Virtual Machine_ _ ** 
+***Virtual Machine*** 
 En general todos los temas me han gustado bastante, sin embargo el que más
  me ha gustado es el de máquinas virtuales porque creandola afiance los temas
 de hardware y software, en su uso tambien afiance temas de sistemas operativos
